@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+padding: 10px;
+    
+} 
+.header{
+    max-width: 100%;
+    color: black;
+    margin:0;
+    background-color:rgb(188, 215, 99) ;
+    padding: 10px;
+}
+img{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius:50%;
+    float: left;
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+    
+}
+.header-contact a{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin-left: 0;
+    
+
+
+    
+    
+}
+.object{
+    float:left;
+    width: 40%;
+
+
+    
+}
+.object-bio{
+    float: left;
+    width: 60%;
+    text-align: justify;
+    padding-bottom: 15px;
+    
+
+}
+.common-hr{
+    border: solid black 2px;
+    width: 100%;
+    border-bottom: none;
+}
+.personal-attribute{
+    float: left;
+    width: 40%;
+}
+.list{
+    float: left;
+    width: 60%;
+text-decoration: double;
+padding-bottom: 15px;
+}
+.personal{
+    float: left;
+    width: 40%;
+
+
+}
+.personal-data{
+    float: left;
+    width: 60%;
+    padding-bottom: 15px;
+    text-decoration: none;
+
+}
+.Employment{
+    float: left;
+    width: 40%;
+    
+    
+
+}
+.Employment-History{
+    float: left;
+    width: 60%;
+    padding-bottom: 15px;
+    text-decoration:none;
+
+
+}
+.Employment2{
+    float: left;
+    width: 40%;
+    
+    
+
+}
+.Employment-History2{
+    float: left;
+    width: 60%;
+    padding-bottom: 15px;
+    text-decoration:none;
+
+
+}
+.Employment3{
+    float: left;
+    width: 40%;
+    
+
+}
+.Employment-History3{
+    float: left;
+    width: 60%;
+    padding-bottom: 15px;
+    text-decoration:none;
+
+
+}
+.education{
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+table{
+    width: 100%;
+    height:200px ;
+    border-spacing:0;
+}
+
+thead,td, th{
+    padding: 15px ;
+    border: 2px solid black;
+    font-size: small;
+}
+tr{
+    text-align: center;
+}
+.Interests{
+    width: 40%;
+    float: left;
+}
+.Interests-bio{
+    width: 60%;
+    float: left;
+    padding-top: 10px;
+}
+.Hobbies{
+    width: 40%;
+    float: left;
+}
+.Hobbies-bio{
+    width: 60%;
+    float: left;
+    padding-top: 10px;
+
+}
+.Language-Skills{
+    width: 40%;
+    float: left;
+
+}
+.Language-bio{
+    width: 60%;
+    float: right;
+    padding-bottom: 10px;
+
+}
+.Declaration{
+    width: 40%;
+    float: left;
+
+}
+.Declaration-bio{
+    width: 60%;
+    float: right;
+    padding-bottom: 10px;
+
+}
+.buttom{
+    background-color: black;
+color: white;
+    text-align: center;
+    padding: 10px;
+    width: auto;
+}
+.buttom a:hover{
+    text-decoration: underline;
+   margin: 10px;
+   padding: 10px;
+   color: brown;
+}
+.buttom p{
+    color: white;
+   margin: 10px;
+   padding: 5px;
+}
+    
+    
+
